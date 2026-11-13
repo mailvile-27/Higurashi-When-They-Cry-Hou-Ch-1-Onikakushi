@@ -192,4 +192,4 @@ This repository serves as the official landing page for Higurashi When They Cry 
 **Get the most recent version of Higurashi When They Cry Hou - Ch.1 Onikakushi today!**
 
 ---
-**Last updated:** 2026-11-12 20:38:39 UTC
+**Last updated:** 2026-11-13 01:40:55 UTC
